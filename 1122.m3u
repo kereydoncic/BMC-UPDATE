@@ -1,0 +1,77 @@
+#EXTM3U x-tvg-url=""
+#EXTINF:1 tvg-id="new/a2z" provider="Main" tvg-logo="" provider-logo="" provider-type="iptv" group-title="📺BMC📡PH V8🇵🇭",[Main] A2Z
+http://178.128.21.207:1234/stream/new/a2z/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
+#EXTINF:2 tvg-id="new/animax" provider="Main" tvg-logo="" provider-logo="" provider-type="iptv" group-title="📺BMC📡PH V8🇵🇭",[Main] Animax
+http://178.128.21.207:1234/stream/new/animax/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
+#EXTINF:3 tvg-id="new/animexhidive" provider="Main" tvg-logo="" provider-logo="" provider-type="iptv" group-title="📺BMC📡PH V8🇵🇭",[Main] Anime X HiDive
+http://178.128.21.207:1234/stream/new/animexhidive/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
+#EXTINF:4 tvg-id="new/axn" provider="Main" tvg-logo="" provider-logo="" provider-type="iptv" group-title="📺BMC📡PH V8🇵🇭",[Main] AXN
+http://178.128.21.207:1234/stream/new/axn/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
+#EXTINF:5 tvg-id="new/cinemaxhd" provider="Main" tvg-logo="" provider-logo="" provider-type="iptv" group-title="📺BMC📡PH V8🇵🇭",[Main] Cinemax HD
+http://178.128.21.207:1234/stream/new/cinemaxhd/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
+#EXTINF:6 tvg-id="new/dreamworks" provider="Main" tvg-logo="" provider-logo="" provider-type="iptv" group-title="📺BMC📡PH V8🇵🇭",[Main] Dreamworks
+http://178.128.21.207:1234/stream/new/dreamworks/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
+#EXTINF:7 tvg-id="new/dreamworkstagalog" provider="Main" tvg-logo="" provider-logo="" provider-type="iptv" group-title="📺BMC📡PH V8🇵🇭",[Main] Dreamworks Tagalog
+http://178.128.21.207:1234/stream/new/dreamworkstagalog/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
+#EXTINF:8 tvg-id="new/rockaction" provider="Main" tvg-logo="" provider-logo="" provider-type="iptv" group-title="📺BMC📡PH V8🇵🇭",[Main] GEM
+http://178.128.21.207:1234/stream/new/rockaction/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
+#EXTINF:9 tvg-id="new/gma" provider="Main" tvg-logo="" provider-logo="" provider-type="iptv" group-title="📺BMC📡PH V8🇵🇭",[Main] GMA
+http://178.128.21.207:1234/stream/new/gma/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
+#EXTINF:10 tvg-id="new/gtv" provider="Main" tvg-logo="" provider-logo="" provider-type="iptv" group-title="📺BMC📡PH V8🇵🇭",[Main] GTV
+http://178.128.21.207:1234/stream/new/gtv/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
+#EXTINF:11 tvg-id="new/hbofamily" provider="Main" tvg-logo="" provider-logo="" provider-type="iptv" group-title="📺BMC📡PH V8🇵🇭",[Main] HBO Family
+http://178.128.21.207:1234/stream/new/hbofamily/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
+#EXTINF:12 tvg-id="new/hbohd" provider="Main" tvg-logo="" provider-logo="" provider-type="iptv" group-title="📺BMC📡PH V8🇵🇭",[Main] HBO HD
+http://178.128.21.207:1234/stream/new/hbohd/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
+#EXTINF:13 tvg-id="new/hbohitshd" provider="Main" tvg-logo="" provider-logo="" provider-type="iptv" group-title="📺BMC📡PH V8🇵🇭",[Main] HBO Hits HD
+http://178.128.21.207:1234/stream/new/hbohitshd/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
+#EXTINF:14 tvg-id="new/hbosignature" provider="Main" tvg-logo="" provider-logo="" provider-type="iptv" group-title="📺BMC📡PH V8🇵🇭",[Main] HBO Signature
+http://178.128.21.207:1234/stream/new/hbosignature/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
+#EXTINF:15 tvg-id="new/hitsmovies" provider="Main" tvg-logo="" provider-logo="" provider-type="iptv" group-title="📺BMC📡PH V8🇵🇭",[Main] Hits Movies
+http://178.128.21.207:1234/stream/new/hitsmovies/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
+#EXTINF:16 tvg-id="new/kapamilyachannel" provider="Main" tvg-logo="" provider-logo="" provider-type="iptv" group-title="📺BMC📡PH V8🇵🇭",[Main] Kapamilya Channel
+http://178.128.21.207:1234/stream/new/kapamilyachannel/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
+#EXTINF:17 tvg-id="new/myx" provider="Main" tvg-logo="" provider-logo="" provider-type="iptv" group-title="📺BMC📡PH V8🇵🇭",[Main] Myx
+http://178.128.21.207:1234/stream/new/myx/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
+#EXTINF:18 tvg-id="new/nbatvphillipines" provider="Main" tvg-logo="" provider-logo="" provider-type="iptv" group-title="📺BMC📡PH V8🇵🇭",[Main] NBA TV Phillipines
+http://178.128.21.207:1234/stream/new/nbatvphillipines/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
+#EXTINF:19 tvg-id="new/nickelodeon" provider="Main" tvg-logo="" provider-logo="" provider-type="iptv" group-title="📺BMC📡PH V8🇵🇭",[Main] Nickelodeon
+http://178.128.21.207:1234/stream/new/nickelodeon/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
+#EXTINF:20 tvg-id="new/nickelodeonastro" provider="Main" tvg-logo="" provider-logo="" provider-type="iptv" group-title="📺BMC📡PH V8🇵🇭",[Main] Nickelodeon HD
+http://178.128.21.207:1234/stream/new/nickelodeonastro/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
+#EXTINF:21 tvg-id="new/one" provider="Main" tvg-logo="" provider-logo="" provider-type="iptv" group-title="📺BMC📡PH V8🇵🇭",[Main] ONE
+http://178.128.21.207:1234/stream/new/one/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
+#EXTINF:22 tvg-id="new/onesports" provider="Main" tvg-logo="" provider-logo="" provider-type="iptv" group-title="📺BMC📡PH V8🇵🇭",[Main] One Sports +
+http://178.128.21.207:1234/stream/new/onesports/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
+#EXTINF:23 tvg-id="new/onesportshd" provider="Main" tvg-logo="" provider-logo="" provider-type="iptv" group-title="📺BMC📡PH V8🇵🇭",[Main] One Sports HD
+http://178.128.21.207:1234/stream/new/onesportshd/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
+#EXTINF:24 tvg-id="new/pbarush" provider="Main" tvg-logo="" provider-logo="" provider-type="iptv" group-title="📺BMC📡PH V8🇵🇭",[Main] PBA Rush
+http://178.128.21.207:1234/stream/new/pbarush/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
+#EXTINF:25 tvg-id="new/rockaction-1" provider="Main" tvg-logo="" provider-logo="" provider-type="iptv" group-title="📺BMC📡PH V8🇵🇭",[Main] Rock Action
+http://178.128.21.207:1234/stream/new/rockaction-1/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
+#EXTINF:26 tvg-id="new/rptv" provider="Main" tvg-logo="" provider-logo="" provider-type="iptv" group-title="📺BMC📡PH V8🇵🇭",[Main] RPTV
+http://178.128.21.207:1234/stream/new/rptv/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
+#EXTINF:27 tvg-id="new/tapedge" provider="Main" tvg-logo="" provider-logo="" provider-type="iptv" group-title="📺BMC📡PH V8🇵🇭",[Main] Tap Edge
+http://178.128.21.207:1234/stream/new/tapedge/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
+#EXTINF:28 tvg-id="new/tapsports" provider="Main" tvg-logo="" provider-logo="" provider-type="iptv" group-title="📺BMC📡PH V8🇵🇭",[Main] Tap Sports
+http://178.128.21.207:1234/stream/new/tapsports/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
+#EXTINF:29 tvg-id="new/tv5" provider="Main" tvg-logo="" provider-logo="" provider-type="iptv" group-title="📺BMC📡PH V8🇵🇭",[Main] TV5
+http://178.128.21.207:1234/stream/new/tv5/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
+#EXTINF:30 tvg-id="new/tvnmovieshd" provider="Main" tvg-logo="" provider-logo="" provider-type="iptv" group-title="📺BMC📡PH V8🇵🇭",[Main] tvN Movies HD
+http://178.128.21.207:1234/stream/new/tvnmovieshd/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
+#EXTINF:31 tvg-id="new/tvnmoviespinoy" provider="Main" tvg-logo="" provider-logo="" provider-type="iptv" group-title="📺BMC📡PH V8🇵🇭",[Main] tvN Movies Pinoy
+http://178.128.21.207:1234/stream/new/tvnmoviespinoy/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
+#EXTINF:32 tvg-id="new/tvnpremiumhd" provider="Main" tvg-logo="" provider-logo="" provider-type="iptv" group-title="📺BMC📡PH V8🇵🇭",[Main] tvN Premium HD
+http://178.128.21.207:1234/stream/new/tvnpremiumhd/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
+#EXTINF:33 tvg-id="new/vevo2010s" provider="Main" tvg-logo="" provider-logo="" provider-type="iptv" group-title="📺BMC📡PH V8🇵🇭",[Main] Vevo 2010s
+http://178.128.21.207:1234/stream/new/vevo2010s/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
+#EXTINF:34 tvg-id="new/vevo2k" provider="Main" tvg-logo="" provider-logo="" provider-type="iptv" group-title="📺BMC📡PH V8🇵🇭",[Main] Vevo 2K
+http://178.128.21.207:1234/stream/new/vevo2k/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
+#EXTINF:35 tvg-id="new/vevofeatures" provider="Main" tvg-logo="" provider-logo="" provider-type="iptv" group-title="📺BMC📡PH V8🇵🇭",[Main] Vevo Features
+http://178.128.21.207:1234/stream/new/vevofeatures/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
+#EXTINF:36 tvg-id="new/vevohiphop" provider="Main" tvg-logo="" provider-logo="" provider-type="iptv" group-title="📺BMC📡PH V8🇵🇭",[Main] Vevo Hip-Hop
+http://178.128.21.207:1234/stream/new/vevohiphop/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
+#EXTINF:37 tvg-id="new/vevorb" provider="Main" tvg-logo="" provider-logo="" provider-type="iptv" group-title="📺BMC📡PH V8🇵🇭",[Main] Vevo R&B
+http://178.128.21.207:1234/stream/new/vevorb/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
+#EXTINF:38 tvg-id="new/warnertv" provider="Main" tvg-logo="" provider-logo="" provider-type="iptv" group-title="📺BMC📡PH V8🇵🇭",[Main] Warner TV
+http://178.128.21.207:1234/stream/new/warnertv/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
